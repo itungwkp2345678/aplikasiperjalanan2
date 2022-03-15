@@ -1,0 +1,5 @@
+NIK|NAMA LENGKAP
+1234567|Agus
+12345|itung
+6655|anto
+0718|Anhar
